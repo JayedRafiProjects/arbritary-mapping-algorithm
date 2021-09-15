@@ -1,2 +1,2 @@
 # Arbitrary_Mapping_Algorithm
-An Algorithm to assign values in a random order from a list.
+Arbitrary Mapping Algorithm is a program to sort array values in a random order that is impossible to track using any logical procedure
