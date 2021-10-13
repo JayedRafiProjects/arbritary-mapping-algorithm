@@ -1,11 +1,11 @@
 /*******************************
  * 
- * Arbitrary Mapping Algorithm
+ * Project: Arbritary mapping algorithm
  * Language: Java
- * Creator: Jayed Rafi
  * Date: August 2021
- * URL:
  * 
+ * Dev: Jayed Rafi
+ *
 *******************************/
 
 public class ArbitraryMappingAlgorithm {
