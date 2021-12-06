@@ -1,2 +1,3 @@
 <h2>Arbitrary Mapping Algorithm</h2>
-<p>Details: <a href="https://jayedrafiprojects.github.io/portfolio/pub/arbitrary-mapping-algorithm.html">link</a></p>
+<p align="justify">This project is a simple algorithm to re-arrange the values randomly in an array. I have come across many situations where I needed to implement different scenarios in each iteration or each time I run the application. And I have used several algorithms that are already available. But why not try something by myself? The sole purpose of sharing this is to not imply this algorithm is faster than others but to give you more options to choose from.<br/>
+Further details can be found <a href="https://jayedrafiprojects.github.io/portfolio/pub/arbitrary-mapping-algorithm.html">HERE</a>.</p>
